@@ -20,7 +20,7 @@ então a **média** de uma amostra de tamanho $n$ suficientemente grande converg
 Use o painel à esquerda para configurar a simulação e os parâmetros da distribuição:
 
 - **Número de Simulações $m$:** Torna o desenho do histograma mais "nítido", pois estamos coletando mais dados para desenhar as barras. Aumentar o m não transforma o gráfico em uma Normal.
-> É como se estivéssemos aumentando a "resolução" de uma imagem, usando maix *pixels*.
+> É como se estivéssemos aumentando a "resolução" de uma imagem, usando mais *pixels*.
 
 - **Tamanho de cada amostra $n$:** É o aumento de $n$ que de fato altera o formato do gráfico, expalhando a aleatoriedade de modo que distribuição das médias amostrais assumam o formato de um sino, característico da Distribuição Normal
 
