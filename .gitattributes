@@ -1,0 +1,4 @@
+# Ignorar documentacao nas estatisticas de linguagem
+documentacao/** linguist-vendored
+documentacao/html/** linguist-vendored
+documentacao/latex/** linguist-vendored

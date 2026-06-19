@@ -1,0 +1,8 @@
+# Ignorar arquivos de configuração específicos do editor VS Code
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/*.user
+
+# Ingorar arquivos de compilação para deixar o versionamento mais limpo durante testes
+tp_enunciado_pb.pdf
